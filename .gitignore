@@ -7,7 +7,7 @@
 *.tfstate.*
 
 # Crendential File
-creds.tf
+##creds.tf
 
 # .tfvars files
 *.tfvars
